@@ -5,3 +5,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+- [ ] Complete first HW
+- [ ] Get an A
+- [ ] Profit!
